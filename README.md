@@ -292,7 +292,3 @@ Environment variables (defaults in code): `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASS
 - **Entity deduplication**: “Apple” vs “Apple Inc.” still create separate nodes unless you add canonicalization or merge rules.
 
 ---
-
-## License / ownership
-
-Add your license and contact here as appropriate for GitHub.
